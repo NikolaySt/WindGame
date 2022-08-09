@@ -1,6 +1,6 @@
 ﻿using System.Runtime.InteropServices;
 
-namespace ConsoleApp8
+namespace WindGame
 {
     public static class Solution
     {

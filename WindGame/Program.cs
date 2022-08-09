@@ -2,7 +2,7 @@
 
 using System.Diagnostics;
 using System.Runtime.InteropServices;
-using ConsoleApp8;
+using WindGame;
 
 Console.WriteLine("Hello, World!");
 
